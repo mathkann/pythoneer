@@ -1,0 +1,1 @@
+## Code and Notes from the [Effective Python](http://www.effectivepython.com/) book
